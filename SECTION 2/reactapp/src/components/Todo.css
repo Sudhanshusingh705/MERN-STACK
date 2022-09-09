@@ -1,0 +1,14 @@
+.task-body{
+    border: 2px solid  #001330;
+    border-color: #95c0ff;
+    background:cyan;
+    padding: 5px 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.task-body p{
+    margin: 0;
+    color: #001330;
+      
+}
